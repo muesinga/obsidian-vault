@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "84116052a54f5e9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfa94e5997bfc0af",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TNEW/Site Map.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c89da7931fb3ade4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ca79394df5d0e0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1949f702976d539a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "17fb6050879c2d12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dac346da75ba376c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8fe11d04245d603",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de5c16befdd995ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TNEW/Site Map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cfa94e5997bfc0af",
+  "lastOpenFiles": [
+    "TNEW/Site Map.md",
+    "Fran Notes.md",
+    "Renewal Training/notes on training update.md"
+  ]
+}

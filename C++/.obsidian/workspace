@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "4250adfc96f87cff",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5400456d8617388",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b071254a80efdfc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "94ec30136aafdf56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "983dfe4e9d70c8df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6572a1b0d174d5a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb0d633314e7f1c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c36260c8e091fb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "520913d41bce409c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d5400456d8617388",
+  "lastOpenFiles": [
+    "conditional.md",
+    "bugs.md",
+    "scope.md",
+    "vectors.md",
+    "functions.md",
+    "Bug.md",
+    "loops.md",
+    "logical operators.md",
+    "basic.md",
+    "png/Screen Shot 2021-10-23 at 11.03.37 AM 1.png"
+  ]
+}

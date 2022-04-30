@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "ef721d242361a3e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0404ae68d5e156f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "css radial gradients.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec3411dd9cffbca4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cbe2beb25fcb895",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "770a3dea464a5a40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "37912e9b6bbfc5d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3847d2cdd20547b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "82e190f670085156",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfdbbd66fc35445b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "css radial gradients.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e0404ae68d5e156f",
+  "lastOpenFiles": [
+    "css radial gradients.md",
+    "css/css gradient.md",
+    "css/css colors 1.md",
+    "css/css background 1.md",
+    "css/css border images.md",
+    "css/css rounded corners.md",
+    "css/css specificity.md",
+    "css/css units.md",
+    "css/css forms.md",
+    "css/css attribute selectors.md"
+  ]
+}

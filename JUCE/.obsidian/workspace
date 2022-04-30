@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "e26470691306db81",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cbe856c33a3c24f",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "386d6067db6779e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce552986b3d7776c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1676678fbcea868",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "df8d9fcd67b59e3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "81574927aadd064c",
+    "type": "split",
+    "children": [
+      {
+        "id": "93e1a53f6792787c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a7600f4ca2fc4ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.8,
+    "collapsed": true
+  },
+  "active": "6cbe856c33a3c24f",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled/Untitled.md",
+    "DSP/listeners-and-broadcasters.md",
+    "Intro/sine-wave-synth.md",
+    "Intro/audio-application-lifecycle.md",
+    "Intro/SampleRate-BitDepth-BufferSize.md",
+    "Intro/AudioSource Class.md",
+    "Intro/code-basic-plugins.md",
+    "Intro/projucer-templates.md",
+    "Intro/png/Screen Shot 2021-11-18 at 7.44.07 AM.png"
+  ]
+}

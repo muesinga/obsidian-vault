@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "53b194226ca5271d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b401b7a015f0e42",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Types of Google Ad Campaigns.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86faeae49e290a44",
+    "type": "split",
+    "children": [
+      {
+        "id": "037281c0265c314d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4af37ae8f7345d59",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b641d1179a494ab7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1e66b29c89b127ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "a44cf74d9dce8140",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4faa8053e2982c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Types of Google Ad Campaigns.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6b401b7a015f0e42",
+  "lastOpenFiles": [
+    "Types of Google Ad Campaigns.md"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "1045dd2238d20387",
+    "type": "split",
+    "children": [
+      {
+        "id": "59f1e9bdb3d3cd0a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "C++ Notes/Basic C++ Notes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16bf723f110ddf1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "75b019bd4f009c5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0d327faf6b1d825",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a921402aa24008a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f58ba01a639b4bac",
+    "type": "split",
+    "children": [
+      {
+        "id": "b021fd5e2d7e0b40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e24ea900ffe32f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C++ Notes/Basic C++ Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "59f1e9bdb3d3cd0a",
+  "lastOpenFiles": [
+    "C++ Notes/Basic C++ Notes.md",
+    "Untitled.md"
+  ]
+}
